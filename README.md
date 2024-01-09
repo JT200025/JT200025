@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'M Jeno Trashan!
 
 <!--
 **JT200025/JT200025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
