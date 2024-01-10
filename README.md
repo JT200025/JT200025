@@ -1,6 +1,6 @@
 ### Hi there 👋, Jeno Trashan
 #### Design and Development
-![Design and Development](https://www.istockphoto.com/vector/technology-of-software-development-web-design-programming-concept-program-code-on-gm1502289545-522651098)
+![Design and Development](https://img.freepik.com/free-vector/isometric-programming-landing-page-template_52683-18795.jpg?w=826&t=st=1704871619~exp=1704872219~hmac=d9a81078315b50fbe783dea7d2c51559ce529b80fc32106e39ca9f8349be3cd6)
 
  I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
