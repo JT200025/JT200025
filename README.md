@@ -1,6 +1,6 @@
 ### Hi there 👋, Jeno Trashan
 #### Design and Development
-![Design and Development](file:///C:/Users/User/Downloads/New%20folder/2645940.jpg)
+![Design and Development](https://github.com/JT200025/tourism-websites-in-sri-lanka-/blob/main/website%20project%201/images/Computer%20programming.png?raw=true)
 
  I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
@@ -9,8 +9,8 @@ as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
 Skills:  REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 /Node.js /Express js /MongoDB
 
 - 🔭 I’m currently working on this page. 
- 
 
+ 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JT200025)  
 
