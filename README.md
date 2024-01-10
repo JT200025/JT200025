@@ -11,9 +11,3 @@ as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.</h1
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jt200025&show_icons=true&locale=en&layout=compact" alt="jt200025" /></p>
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jt200025&show_icons=true&locale=en" alt="jt200025" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jt200025&" alt="jt200025" /></p>
-
