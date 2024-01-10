@@ -1,13 +1,15 @@
 ### Hi there 👋, Jeno Trashan
 #### Design and Development
-![Design and Development](https://img.freepik.com/free-vector/isometric-programming-landing-page-template_52683-18795.jpg?w=826&t=st=1704871619~exp=1704872219~hmac=d9a81078315b50fbe783dea7d2c51559ce529b80fc32106e39ca9f8349be3cd6)
+![Design and Development](file:///C:/Users/User/Downloads/New%20folder/2645940.jpg)
 
  I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
 
-Skills: REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 /Node.js /Express js /MongoDB
+
+Skills:  REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 /Node.js /Express js /MongoDB
 
 - 🔭 I’m currently working on this page. 
+ 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JT200025)  
