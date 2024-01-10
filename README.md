@@ -5,7 +5,7 @@
  I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
 
-Skills: REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 
+Skills: REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 /Node.js /express js /MongoDB
 
 - 🔭 I’m currently working on this page. 
 
