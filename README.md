@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there 👋,</h1> 
 I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
-<h3 align="center">A passionate frontend developer from Sri lanka</h3>
+<h3 align="center">A passionate frontend developer from Sri     lanka</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
