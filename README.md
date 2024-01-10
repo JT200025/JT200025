@@ -1,7 +1,6 @@
-
 ### Hi there 👋, Jeno Trashan
 #### Design and Development
-![Design and Development](https://img.freepik.com/free-vector/programming-concept-illustration_114360-1351.jpg?w=740&t=st=1704870383~exp=1704870983~hmac=d90c949dce8d4c16011389c392a1b83868b89d89df7d134966732c06a97e6134)
+![Design and Development](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376770.jpg?w=826&t=st=1704870918~exp=1704871518~hmac=60d1dec7ffbad99fde44c24f30cf63e17f6e67ad41a172698ebe6c3406cdc046)
 
  I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
@@ -9,6 +8,10 @@ as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
 Skills: REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 
 
 - 🔭 I’m currently working on this page. 
+
+
+
+
 
 
 
