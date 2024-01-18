@@ -1,4 +1,4 @@
-### Hi there 👋, Jeno Trashan
+### Hi there 👋, I'M Jeno Trashan
 #### Design and Development
 ![Design and Development](https://github.com/JT200025/tourism-websites-in-sri-lanka-/blob/main/website%20project%201/images/Computer%20programming.png?raw=true)
 
