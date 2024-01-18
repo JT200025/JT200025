@@ -27,4 +27,4 @@ Skills:  REACT / JS / HTML / CSS/ SCSS /Tailwind css  /Bootstrap 5 /Node.js /Exp
  
 [<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jt200025&show_icons=true&locale=en" alt="jt200025" /></p>](https://github-readme-stats.vercel.app/api?username=jt200025&show_icons=true&locale=en)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jt200025&" alt="jt200025" /></p>
+
