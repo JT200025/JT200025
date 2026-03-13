@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://github.com/JT200025/tourism-websites-in-sri-lanka-/blob/main/website%20project%201/images/Computer%20programming.png?raw=true)
 
- I'm Jeno Trashan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
+ I'm Jeno Treshan from Srilanka, and i do content on Design and Development I really enjoy learning languages and frameworks like React and React Native,
 as wellas in work in wordpress.I also enjoying wireframing,ui,ux and design.
 
 
